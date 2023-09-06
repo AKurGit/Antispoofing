@@ -1,0 +1,9 @@
+{
+  "lr": 0.000001,
+  "batch_size": 16,
+  "weight_decay": 0.05,
+  "epochs": 4,
+  "last_epoch": -1,
+  "data_dir": "D:/IT/PycharmProjects/datasets/transformed_dataset",
+  "checkpoint_path":"D:/IT/PycharmProjects/datasets"
+}
